@@ -259,7 +259,7 @@ app.post('/submit', async (req, res) => {
 
   } catch (err) {
     console.error('Submit error:', err.message);
-    res.status(500).json({ success: false, message: err.message });
+    res.status(500).json({ success: false, message: 'Something went wrong. Please try again.' });
   }
 });
 

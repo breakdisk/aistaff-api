@@ -43,11 +43,8 @@ function hiringEmail(name) {
       <table width="600" cellpadding="0" cellspacing="0" style="max-width:600px;width:100%;background:#ffffff;border-radius:16px;overflow:hidden;box-shadow:0 4px 24px rgba(0,0,0,0.08);">
         <!-- Header -->
         <tr>
-          <td style="background:#050d1a;padding:32px 40px;text-align:center;">
-            <div style="font-family:'Arial Black',Arial,sans-serif;font-size:26px;font-weight:900;color:#ffffff;letter-spacing:-0.5px;">
-              Ai<span style="color:#1a73e8;">Staff</span>
-            </div>
-            <div style="font-size:11px;color:#22c55e;letter-spacing:3px;text-transform:uppercase;margin-top:4px;">Future Workforce</div>
+          <td style="background:#050d1a;padding:28px 40px;text-align:center;">
+            <img src="https://www.aistaff.ph/logo-white.png" alt="AiStaff — Future Workforce" style="height:55px;width:auto;display:block;margin:0 auto;" />
           </td>
         </tr>
         <!-- Body -->
@@ -127,11 +124,8 @@ function freelancerEmail(name) {
       <table width="600" cellpadding="0" cellspacing="0" style="max-width:600px;width:100%;background:#ffffff;border-radius:16px;overflow:hidden;box-shadow:0 4px 24px rgba(0,0,0,0.08);">
         <!-- Header -->
         <tr>
-          <td style="background:#050d1a;padding:32px 40px;text-align:center;">
-            <div style="font-family:'Arial Black',Arial,sans-serif;font-size:26px;font-weight:900;color:#ffffff;letter-spacing:-0.5px;">
-              Ai<span style="color:#1a73e8;">Staff</span>
-            </div>
-            <div style="font-size:11px;color:#22c55e;letter-spacing:3px;text-transform:uppercase;margin-top:4px;">Future Workforce</div>
+          <td style="background:#050d1a;padding:28px 40px;text-align:center;">
+            <img src="https://www.aistaff.ph/logo-white.png" alt="AiStaff — Future Workforce" style="height:55px;width:auto;display:block;margin:0 auto;" />
           </td>
         </tr>
         <!-- Body -->
